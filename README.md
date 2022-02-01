@@ -146,6 +146,7 @@ See [here](https://en.climate-data.org/asia/india/jammu-and-kashmir/leh-24802/)
 #### Leh Ladakh road trip info
 
 [15 day roadtrip](./docs/leh-ladakh/about.md)
+[Brochuer](./docs/leh-ladakh/Ladakh-Brochure-2021_v3.pdf)
 
 ### Rajasthan
 

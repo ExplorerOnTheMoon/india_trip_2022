@@ -21,6 +21,7 @@
       - [Lakshwadeep climate](#lakshwadeep-climate)
     - [Leh Ladakh](#leh-ladakh)
       - [Leh Ladakh climate](#leh-ladakh-climate)
+      - [Leh Ladakh road trip info](#leh-ladakh-road-trip-info)
     - [Rajasthan](#rajasthan)
       - [Rajasthan climate](#rajasthan-climate)
     - [Shimla / Manali](#shimla--manali)
@@ -141,6 +142,10 @@ The Best time to visit Ladakh is during the summer season from the month of Apri
 
 See [here](https://weatherspark.com/y/109277/Average-Weather-in-Leh-India-Year-Round)
 See [here](https://en.climate-data.org/asia/india/jammu-and-kashmir/leh-24802/)
+
+#### Leh Ladakh road trip info
+
+[15 day roadtrip](./docs/leh-ladakh/about.md)
 
 ### Rajasthan
 

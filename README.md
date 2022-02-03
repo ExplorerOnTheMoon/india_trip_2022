@@ -8,6 +8,9 @@
     - [2022/6](#20226)
     - [2022/7](#20227)
   - [potential places](#potential-places)
+    - [Bali](#bali)
+      - [Bali climate](#bali-climate)
+      - [Bali - places to stay](#bali---places-to-stay)
     - [Coorg](#coorg)
       - [Coorg climate](#coorg-climate)
     - [Gangtok](#gangtok)
@@ -71,14 +74,30 @@
 
 |  #  | place                              | pros                                                     | cons                                                                       | in season |
 | :-: | :--------------------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------- | :-------: |
-| 01  | [Coorg](#coorg)                    | Less people, pristine, first for everyone                | Possibly heavy rains                                                       |    no     |
-| 02  | [Gangtok](#gangtok)                | Less people, pristine, first for everyone                | Possibly heavy rains                                                       |    no     |
-| 03  | [Goa](#goa)                        | Chill place, villas (fit into family style accomodation) | Repeat trips for many folks, possibly crowded, potential for heavy rains   |   maybe   |
-| 04  | [Kodaikanal](#kodaikanal)          | Less people, pristine, first for everyone, summer / warm | *unsure*                                                                   |    no     |
-| 05  | ~~[Lakshwadeep](#lakshwadeep)~~    | ~~Less people~~                                          | ~~Heavy rains in June~~                                                    |  ~~no~~   |
-| 06  | [Leh Ladakh](#leh-ladakh)          | Less people, pristine                                    | Physically demanding, alpine elevation - possibility of folks falling sick |    yes    |
-| 07  | [Rajasthan](#rajasthan)            | No rain, amazing history, lots of options                | Repeat trips for many folks                                                |    no     |
-| 08  | [Shimla / Manali](#shimla--manali) | Less rain, Lots of activities and great resorts          | Repeat trips for many folks, possibly crowded                              |    yes    |
+| 01  | [Bali](#bali)                      | June is shoulder season, Less people, first for everyone | Outside India (visa, covid regulations)                                    |    yes    |
+| 02  | [Coorg](#coorg)                    | Less people, pristine, first for everyone                | Possibly heavy rains                                                       |    no     |
+| 03  | [Gangtok](#gangtok)                | Less people, pristine, first for everyone                | Possibly heavy rains                                                       |    no     |
+| 04  | [Goa](#goa)                        | Chill place, villas (fit into family style accomodation) | Repeat trips for many folks, possibly crowded, potential for heavy rains   |   maybe   |
+| 05  | [Kodaikanal](#kodaikanal)          | Less people, pristine, first for everyone, summer / warm | *unsure*                                                                   |    no     |
+| 06  | ~~[Lakshwadeep](#lakshwadeep)~~    | ~~Less people~~                                          | ~~Heavy rains in June~~                                                    |  ~~no~~   |
+| 07  | [Leh Ladakh](#leh-ladakh)          | Less people, pristine                                    | Physically demanding, alpine elevation - possibility of folks falling sick |    yes    |
+| 08  | [Rajasthan](#rajasthan)            | No rain, amazing history, lots of options                | Repeat trips for many folks                                                |    no     |
+| 09  | [Shimla / Manali](#shimla--manali) | Less rain, Lots of activities and great resorts          | Repeat trips for many folks, possibly crowded                              |    yes    |
+
+### Bali
+
+The best time to visit Bali is between April and October, the island's dry season. Bali experiences only two seasons: the rainy season and the dry season. Throughout the year, the daytime temps hover between the mid-80s and low 90s, with only the humidity and precipitation patterns changing.
+
+Hotels are offering discounts on group bookings. Peak season starts from July.
+
+#### Bali climate
+
+See [here](https://bali.com/bali/weather/)
+
+#### Bali - places to stay
+
+- [Ubud](https://www.padmaresortubud.com/)
+
 
 ### Coorg
 

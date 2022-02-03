@@ -97,6 +97,7 @@ See [here](https://bali.com/bali/weather/)
 #### Bali - places to stay
 
 - [Ubud](https://www.padmaresortubud.com/)
+- [Amankila](https://www.youtube.com/watch?v=5bL1dEKYyak)
 
 
 ### Coorg

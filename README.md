@@ -7,6 +7,10 @@
   - [calendar](#calendar)
     - [2022/6](#20226)
     - [2022/7](#20227)
+    - [plan with dates](#plan-with-dates)
+      - [plan a](#plan-a)
+      - [plan b](#plan-b)
+      - [plan c](#plan-c)
   - [potential places](#potential-places)
     - [Bali](#bali)
       - [Bali climate](#bali-climate)
@@ -70,6 +74,84 @@
 |  29  |  18   |  19   |  20   |  21   |  22   |  23   |   24   |
 |  30  |  25   |  26   |  27   |  28   |  29   |  30   |   31   |
 
+### plan with dates
+
+#### plan a
+
+|  #   | personnel                   | date        | from         | to                | event                         | notes                                                            | timeline      | action item                                 |
+| :--: | :-------------------------- | ----------- | ------------ | ----------------- | :---------------------------- | :--------------------------------------------------------------- | ------------- | ------------------------------------------- |
+| 01.a | Dhyan, Niyam, Kiran         | 09-jun-2022 | DEL          | NGP               | Arrival and rest              | Recover from Jetlag                                              |               | @kiran: confirm i can leave my bag at delhi |
+| 01.b | Kinjal                      | 09-jun-2022 | DEL          | RAIPUR            | Arrival, rest, Laser          | Laser + Recover from Jetlag                                      |               |                                             |
+| 01.c | Kinjal                      | 10-jun-2022 | RAIPUR       | NGP               | Arrival, rest                 | Recover from Jetlag                                              |               |                                             |
+|  02  | Kinjal, Dhyan, Niyam, Kiran | 11-jun-2022 | --           | --                | Arrival and rest              | Converge to NGP (Gopi/Mohit) (if not, come to a common location) |               |                                             |
+|  03  | Kinjal, Dhyan, Niyam, Kiran | 12-jun-2022 | NGP          | TBD               | Group destination # 1         | Head out                                                         |               | @all: where, what, how                      |
+|  04  | Kinjal, Dhyan, Niyam, Kiran | 13-jun-2022 | RAIPUR       | NGP               | Group destination # 1         | tbd                                                              |               |                                             |
+|  05  | Kinjal, Dhyan, Niyam, Kiran | 14-jun-2022 | RAIPUR       | NGP               | Group destination # 1         | tbd                                                              |               |                                             |
+|  06  | Kinjal, Dhyan, Niyam, Kiran | 15-jun-2022 | RAIPUR       | NGP               | Group destination # 1         | tbd                                                              | end of week 1 |                                             |
+|  07  | Kinjal, Dhyan, Niyam, Kiran | 16-jun-2022 | TBD          | MUMBAI            | Return from dest # 1          | Highway Park                                                     |               |                                             |
+|  08  | Kinjal, Dhyan, Niyam, Kiran | 17-jun-2022 | --           | MUMBAI            | Relax + Goregaon              | Goregaon                                                         |               |                                             |
+|  09  | Kinjal, Dhyan, Niyam, Kiran | 18-jun-2022 | --           | MUMBAI            | Ajanta Ellora / Kailash       | All can join + Resort                                            |               |                                             |
+|  09  | Kinjal, Dhyan, Niyam, Kiran | 19-jun-2022 | --           | MUMBAI            | Resort + meetup               | Maybe call Nayanbhai / Vijaybhai etc                             |               |                                             |
+|  10  | Kinjal, Dhyan, Niyam, Kiran | 20-jun-2022 | MUMBAI       | SURAT             | Call mama(s) over to Mumbai   | Try to avoid train travel                                        |               |                                             |
+|  11  | Kinjal, Dhyan, Niyam, Kiran | 21-jun-2022 | SURAT        | MUMBAI            | Call mama(s) over to Mumbai   | Try to avoid train travel                                        |               |                                             |
+| 12.a | Kiran                       | 22-jun-2022 | MUMBAI       | DELHI             | Head out to Leh / Ladakh      | Fly to Delhi, pickup bag and then by road to Leh / Ladakh        | end of week 2 | @kiran: pickup bag from delhi               |
+| 12.b | Kinjal, Dhyan, Niyam        | 22-jun-2022 | MUMBAI       | NGP               | Meet architecture friends     | tbd                                                              | end of week 2 | @kinjal: confirm friends availability       |
+| 13.a | Kiran                       | 23-jun-2022 | DELHI        | Leh / Ladakh      | Head out to Leh / Ladakh      | Reach and acclimatize                                            |               | @kiran: book tickets, accomodation, agent   |
+| 13.b | Kinjal                      | 23-jun-2022 | --           | --                | tbd                           | tbd                                                              |               |                                             |
+| 14.a | Kiran                       | 24-jun-2022 | --           | --                | Leh / Ladakh                  | Acclimatize (4*4 travels)?                                       |               | @kiran: where, what, how                    |
+| 14.b | Kinjal                      | 24-jun-2022 | NGP          | --                | take care of some formalities | tbd                                                              |               | @kinjal: where, what, how                   |
+| 15.a | Kiran                       | 25-jun-2022 | NGP          | --                | Leh / Ladakh                  | Acclimatize (4*4 travels)?                                       |               |                                             |
+| 15.b | Kinjal                      | 25-jun-2022 | tbd          | tbd               | tbd                           | tbd                                                              |               |                                             |
+| 16.a | Kiran                       | 26-jun-2022 | Leh / Ladakh | --                | Leh / Ladakh                  | Acclimatize (4*4 travels)?                                       |               |                                             |
+| 16.b | Kinjal                      | 26-jun-2022 | tbd          | tbd               | tbd                           | tbd                                                              |               |                                             |
+| 17.a | Kiran                       | 27-jun-2022 | Leh / Ladakh | --                | Leh / Ladakh                  | Begin trek                                                       |               |                                             |
+| 17.b | Kinjal                      | 27-jun-2022 | tbd          | tbd               | tbd                           | tbd                                                              |               |                                             |
+| 18.a | Kiran                       | 28-jun-2022 | Leh / Ladakh | --                | Leh / Ladakh                  | on trek                                                          |               |                                             |
+| 18.b | Kinjal                      | 28-jun-2022 | tbd          | tbd               | tbd                           | tbd                                                              |               |                                             |
+| 19.a | Kiran                       | 29-jun-2022 | Leh / Ladakh | --                | Leh / Ladakh                  | end trek                                                         | end of week 3 |                                             |
+| 19.b | Kinjal                      | 29-jun-2022 | tbd          | tbd               | tbd                           | tbd                                                              | end of week 3 |                                             |
+| 20.a | Kiran                       | 29-jun-2022 | Leh / Ladakh | --                | Leh / Ladakh                  | end trek                                                         |               |                                             |
+| 20.b | Kinjal                      | 29-jun-2022 | tbd          | tbd               | tbd                           | tbd                                                              |               |                                             |
+| 21.a | Kiran                       | 30-jun-2022 | Leh / Ladakh | BANGALORE via DEL | Head back to DEL to drop bags | And then fly from DEL to bangalore                               |               | @kiran: book jindal                         |
+| 21.b | Kinjal                      | 30-jun-2022 | tbd          | BANGALORE         | tbd                           | tbd                                                              |               |                                             |
+|  22  | Kinjal, Kiran               | 01-jul-2022 | --           | --                | Jindal                        | Jindal                                                           |               |                                             |
+|  23  | Kinjal, Kiran               | 02-jul-2022 | --           | --                | Jindal                        | Jindal                                                           |               |                                             |
+|  24  | Kinjal, Kiran               | 03-jul-2022 | --           | --                | Jindal                        | Jindal                                                           |               |                                             |
+|  25  | Kinjal, Kiran               | 04-jul-2022 | --           | --                | Jindal                        | Jindal                                                           |               |                                             |
+|  26  | Kinjal, Kiran               | 05-jul-2022 | --           | --                | Jindal                        | Jindal                                                           |               |                                             |
+|  27  | Kinjal, Kiran               | 06-jul-2022 | --           | --                | Jindal                        | Jindal                                                           | end of week 4 |                                             |
+| 28.a | Kiran                       | 07-jul-2022 | BANGALORE    | DELHI             | Jindal                        | Jindal                                                           |               | @kiran: book tickets                        |
+| 28.b | Kinjal                      | 07-jul-2022 | BANGALORE    | tbd               | Complete Jindal               | Meet friends                                                     |               | @kinjal: where, what, how                   |
+| 29.a | Kiran                       | 08-jul-2022 | DELHI        | --                | Tara                          | Tara                                                             |               |                                             |
+| 29.b | Kinjal                      | 08-jul-2022 | --           | --                | Meet friends                  | Meet friends                                                     |               |                                             |
+| 30.a | Kiran                       | 09-jul-2022 | DELHI        | --                | Fly to USA                    | Fly to USA                                                       |               |                                             |
+| 30.b | Kinjal                      | 09-jul-2022 | --           | --                | tbd                           | tbd                                                              |               |                                             |
+| 31.a | Kiran                       | 10-jul-2022 | DEL          | IAD               | Arrive at IAD                 | tbd                                                              |               | @kiran: confirm pickup                      |
+|  32  | Kinjal                      | 11-jul-2022 | --           | --                | tbd                           | tbd                                                              |               |                                             |
+|  33  | Kinjal                      | 12-jul-2022 | --           | --                | tbd                           | tbd                                                              |               |                                             |
+|  34  | Kinjal, Dhyan, Niyam        | 13-jul-2022 | tbd          | NGP               | tbd                           | tbd                                                              | end of week 5 |                                             |
+|  35  | Kinjal, Dhyan, Niyam        | 14-jul-2022 | --           | --                | shopping + packing            | tbd                                                              |               |                                             |
+|  36  | Kinjal, Dhyan, Niyam        | 15-jul-2022 | --           | --                | relax                         | tbd                                                              |               |                                             |
+|  37  | Kinjal, Dhyan, Niyam, Geeta | 16-jul-2022 | NGP          | DEL               | Fly back to USA               | tbd                                                              |               | @kiran: book tickets                        |
+|  38  | Kinjal, Dhyan, Niyam, Geeta | 17-jul-2022 | DEL          | IAD               | Arrive at IAD                 | cry upon US arrival                                              |               | @kiran: rent car and pickup everyone        |
+
+Possible to leave my bags in DEL and then pick it from there on the way back and then drop it there?
+
+#### plan b
+
+|  #  | passengers                  | date        | from   | to     | event                   | notes               |
+| :-: | :-------------------------- | ----------- | ------ | ------ | :---------------------- | :------------------ |
+| 01  | Kinjal, Dhyan, Niyam, Kiran | 09-jun-2022 | DEL    | NGP    | Arrival and rest        | Recover from Jetlag |
+| 02  | Kinjal, Dhyan, Niyam, Kiran | 10-jun-2022 | DEL    | NGP    | Arrival and rest        | Recover from Jetlag |
+| 03  | Kinjal                      | 11-jun-2022 | NGP    | RAIPUR | Kinjal Laser and return | Recover from Jetlag |
+| 04  | Kinjal                      | 12-jun-2022 | RAIPUR | NGP    | Kinjal returns          | Recover from Jetlag |
+
+#### plan c
+
+|  #  | passengers                  | date        | from | to  | event                        | notes                          | action item                  |
+| :-: | :-------------------------- | ----------- | ---- | --- | :--------------------------- | :----------------------------- | ---------------------------- |
+| 01  | Kinjal, Dhyan, Niyam, Kiran | 09-jun-2022 | IAD  | DEL | Quarantine in DEL for 4 days | someone in the group got COVID | reschedule DEL to NGP flight |
+
 ## potential places
 
 |  #  | place                              | pros                                                     | cons                                                                       | in season |
@@ -98,7 +180,6 @@ See [here](https://bali.com/bali/weather/)
 
 - [Ubud](https://www.padmaresortubud.com/)
 - [Amankila](https://www.youtube.com/watch?v=5bL1dEKYyak)
-
 
 ### Coorg
 

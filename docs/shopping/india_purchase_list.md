@@ -12,6 +12,7 @@
       - [niyam](#niyam)
       - [dhyan](#dhyan)
   - [toys](#toys)
+  - [Self care](#self-care)
 
 ## food
 
@@ -62,3 +63,8 @@
 
 1. boat
 2. gota / goti
+
+## Self care
+
+1. Facial kit
+2. Manicure Pedicure kit

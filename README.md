@@ -28,6 +28,8 @@
       - [Lakshwadeep climate](#lakshwadeep-climate)
     - [Leh Ladakh](#leh-ladakh)
       - [Leh Ladakh place to stay](#leh-ladakh-place-to-stay)
+        - [Ladakh place to stay](#ladakh-place-to-stay)
+        - [Leh place to stay](#leh-place-to-stay)
       - [Leh Ladakh climate](#leh-ladakh-climate)
       - [Leh Ladakh road trip info](#leh-ladakh-road-trip-info)
     - [Rajasthan](#rajasthan)
@@ -242,7 +244,13 @@ The Best time to visit Ladakh is during the summer season from the month of Apri
 
 #### Leh Ladakh place to stay
 
+##### Ladakh place to stay
+
 - [The Bodhi Tree Ladakh](https://www.tripadvisor.com/Hotel_Review-g297625-d20304420-Reviews-The_Bodhi_Tree_Ladakh-Leh_Leh_District_Ladakh_Jammu_and_Kashmir.html#/media/20304420/495780839:p/?albumid=101&type=0&category=101)
+
+##### Leh place to stay
+
+- [Hotel Chantsa](https://www.tripadvisor.com/Hotel_Review-g297625-d17469418-Reviews-or10-Hotel_Chantsa-Leh_Leh_District_Ladakh_Jammu_and_Kashmir.html#REVIEWS)
 
 #### Leh Ladakh climate
 
